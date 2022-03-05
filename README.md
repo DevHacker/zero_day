@@ -1,4 +1,5 @@
-#alx-wzero_day Project
+#alx-zero_day Project
+
 This project is about handling vagrant that will be very important in needed case all along your journey in this program.
 So to better work, folloz steps describe below :
 * Create a directory and named it zero_day
